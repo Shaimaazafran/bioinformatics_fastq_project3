@@ -1,2 +1,0 @@
-# bioinformatics_fastq_project3
-Bioinformatics FASTQ analysis project
